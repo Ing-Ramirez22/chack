@@ -1,0 +1,105 @@
+body{
+
+    background-image: url("imagenes/elementor.jpg");
+
+}
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+    
+}
+.img-1{
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.img-2{
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.img-3{
+    margin-right: 20px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+#pop
+{
+    background-image: url("imagenes/descarga.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+    margin-top: 1px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 55px;
+    padding-right: 740px;
+    float: left;
+}
+#fuck
+{
+    float: left;
+}
+#lol
+{
+    float: right;
+}
+#dick
+{
+    background-color: aliceblue;
+}
+#ball
+{
+    float: right;
+}
+#pluto
+{
+    display: flex;
+    float: left;
+}
+#COCK
+{
+    
+    background-image: url("imagenes/background.jpg");
+    width: 600px;
+    margin-top: 1px;
+    margin-left: 6px;
+    margin-right: 6px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 740px;
+    
+}
+.verga_de_mono{
+    background-image: url("imagenes/background.jpg");
+}
+.caja
+{
+    border-color: azure;
+    background-color: aliceblue;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    width: 120px;
+    height: 120px;
+    margin: 6px;
+    float: left;
+    flex-direction: column;
+}
+.pa{
+    background-color: rgb(0, 0, 0);
+}
+.kiara{
+    background-color: rgb(173, 34, 34);
+    margin-top: 20px;
+    margin-bottom: 52px;
+}
+.otup{
+   margin: 2%;
+   width: 600px;
+}
